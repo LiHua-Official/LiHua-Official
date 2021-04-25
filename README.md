@@ -4,9 +4,9 @@
   <img align="right" src="https://github-readme-stats-alpha-beige.vercel.app/api?username=LiHua-Official&count_private=true&show_icons=true&count_private=true&hide_border=true&hide_title=true" />
 </div>
 
-## ⌨️ Worked language
-✅ C/C++
-✅ Go
-✅ Html5
-✅ Python
+## ⌨️ Worked language  
+✅ C/C++  
+✅ Go  
+✅ Html5  
+✅ Python  
 ✅ Ruby
