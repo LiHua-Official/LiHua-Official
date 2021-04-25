@@ -8,7 +8,9 @@
 I think, therefore I am.  
 ## ⌨️ Worked language  
 ✅ C/C++  
+✅ CSS3
 ✅ Go  
-✅ Html5  
+✅ HTML5
+✅ JavaScript
 ✅ Python  
 ✅ Ruby
